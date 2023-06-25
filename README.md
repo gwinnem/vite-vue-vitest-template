@@ -1,1 +1,1 @@
-# vite-vue4-vitest-template
+# vite-vue-vitest-template
